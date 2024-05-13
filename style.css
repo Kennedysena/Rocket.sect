@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     margin: 0 auto;
     font-family: 'JetBrains Mono', sans-serif;
@@ -41,7 +47,6 @@ h1 {
     font-weight: bold;
     color: #FFFFFF;
     line-height: 40px;
-    margin: 0 auto;
 }
 
 main {
